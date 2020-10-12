@@ -7,8 +7,8 @@
 
 <p align="center">
   Next Level Week 3.0 🚀
-  <br>
-  <br>
+  <br/>
+  <br/>
 
   <img alt="Language count" src="https://img.shields.io/github/repo-size/LMThomaz/happy"/>
 
